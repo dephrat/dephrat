@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dsharkyo
-- 👀 I’m interested in machine learning, software development, and expanding my skills!
-- 🌱 I’m currently learning Python and PyTorch as an entry point into machine learning. 
-- 💞️ I’m looking to collaborate on software projects involving machine learning.
-- 📫 I can be reached by email at dephrat@uwaterloo.ca. 
+Hi, I'm Daniel Ephrat, and this is my Github.
+
+I'm looking to expand my skills in C++, so here's where I'll put some of my C++ projects.
+
+To contact me, use dephrat@uwaterloo.ca.
 
 <!---
 dsharkyo/dsharkyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

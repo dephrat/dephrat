@@ -1,6 +1,6 @@
 Hi, I'm Daniel Ephrat, and this is my Github.
 
-I'm looking to expand my skills in C++, so here's where I'll put some of my C++ projects.
+I'm looking to expand my skills in C++, so here's where I'll put some of my C++ projects, as well as some other things I've made.
 
 To contact me, use dephrat@uwaterloo.ca.
 

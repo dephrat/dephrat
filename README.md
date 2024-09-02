@@ -1,8 +1,8 @@
 Hi, I'm Daniel Ephrat, and this is my Github.
 
-I'm looking to expand my skills in C++, so here's where I'll put some of my C++ projects, as well as some other things I've made.
+I'm looking to expand my skills in C++, so here's where I'll put my C++ projects, as well as some other things I've made.
 
-To contact me, use dephrat@uwaterloo.ca.
+To contact me, use dan.ephrat@gmail.com
 
 <!---
 dsharkyo/dsharkyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

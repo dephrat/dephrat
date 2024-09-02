@@ -1,6 +1,6 @@
 Hi, I'm Daniel Ephrat, and this is my Github.
 
-I'm looking to expand my skills in C++, so here's where I'll put my C++ projects, as well as some other things I've made.
+I'm improving my C++ skills, so here's where I'll put my C++ projects, as well as some other things I've made.
 
 To contact me, use dan.ephrat@gmail.com
 

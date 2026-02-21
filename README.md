@@ -1,7 +1,5 @@
 Hi, I'm Daniel Ephrat, and this is my Github.
 
-I'm currently looking for software developer roles, with a focus on backend development.
-
 To contact me, use dan.ephrat@gmail.com
 
 <!---
